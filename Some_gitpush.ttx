@@ -1,0 +1,7 @@
+t clone git@github.com:john-smart/game-of-life.git
+Initialized empty Git repository in /Users/johnsmart/.../game-of-life/.git/
+remote: Counting objects: 1783, done.
+remote: Compressing objects: 100% (589/589), done.
+remote: Total 1783 (delta 1116), reused 1783 (delta 1116)
+Receiving objects: 100% (1783/1783), 14.83 MiB | 119 KiB/s, done.
+Resolving deltas: 100% (1116/1116), done
