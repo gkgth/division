@@ -32,3 +32,37 @@ Development[edit]
 The development of Wildlands began in 2012,[6] and was revealed in the end of Ubisoft's E3 2015 press conference.[14] Ubisoft also claimed that Wildlands will feature the largest open-world environment the company has ever created.[15] In order to create a realistic Bolivian environment, the developers visited Bolivia for two weeks and asked for consultation from local Bolivians.[6] A modified version of the AnvilNext engine for supporting the large open world environments was used for the game.[2]
 
 Some more added
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's going on? Every event that GitHub sends out attached a X-GitHub-Event HTTP header. We'll only care about the PR events for now. When a pull request is merged (its state is closed, and merged is true), we'll kick off a deployment.
+
+To test out this proof-of-concept, make some changes in a branch in your test repository, open a pull request, and merge it. Your server should respond accordingly!
+
+Working with deployments
+With our server in place, the code being reviewed, and our pull request merged, we want our project to be deployed.
+
+We'll start by modifying our event listener to process pull requests when they're merged, and start paying attention to deployments:
+
+when "pull_request"
+  if @payload["action"] == "closed" && @payload["pull_request"]["merged"]
+    start_deployment(@payload["pull_request"])
+  end
+when "deployment"
+  process_deployment(@payload)
+when "deployment_status"
+  update_deployment_status
+end
+Based on the information from the pull request, we'll start by filling out the start_deployment method:
+
+
