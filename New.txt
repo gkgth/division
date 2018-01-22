@@ -1,3 +1,11 @@
+
+Outlast 2 is a first-person survival horror game that, like its predecessors Outlast and Outlast: Whistleblower, is a single-player campaign. It is set in Northern Arizona. The game continues the found footage characteristics from the first game. The player controls the investigative journalist Blake Langermann, who investigates a dilapidated rural area in Supai,[2] near the western edge of the Colorado Plateau.
+
+Langermann cannot fight except in scripted scenes, but must run and hide.[3] He also wears glasses, which limit the player's vision if they fall off.[2] The player can crouch, run, jump, walk, vault, slide and climb much like the first game and can hide in lockers, barrels, wardrobes, beds, pools of water, tall grass, cornfields, and inside of houses. They have a limited stamina meter and must manage how long they run, lest they become exhausted and move more slowly.
+
+Langermann possesses only a camcorder, which has night vision capabilities, though the camcorder's batteries are also drained when night vision is used. Compared to the first game, Langermann's status as a cameraman means he carries a more advanced camera, one with clearer footage, zoom, and a sensitive microphone that can be used to detect distant footsteps and other noises. The player is equipped with an inventory system displaying the amount of footage recorded on the camera and the items they are carrying. Spare batteries suitable for the camcorder and med kits to heal are spread throughout the game.[4]
+
+
 Just testing the git hub and related aspects and the involved ocmmands
 iIntrigued by the player's supernatural talent of clairvoyance, a struggling university department asks them to join their secret research team, making them a front-field operative in paranormal investigations. Using a wide range of ghost-hunting gadgets and abilities they will conduct missions to investigate real haunted sites, collect samples and gather evidence.
 
