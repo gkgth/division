@@ -1,3 +1,15 @@
+
+Friday the 13th: The Game is a semi-open world[3] third-person survival horror game set in the camps around the fictional Crystal Lake from the Friday the 13th franchise. The time period in which the game is set is the mid-1980s in order to better capture the feel of the original films.[citation needed]
+
+The game is an asymmetrical multiplayer video game, with up to eight people able to play in one game. One player controls Jason Voorhees[6] whose objective is to kill as many counselors as possible. Playing as Jason grants special abilities including being able to sense nearby counselors and to teleport anywhere on the map the player wants.[7] The remaining players control the counselors at the camp. The objective of playing as a counselor is to fill objectives (which are easier to fill when coordinating with other players) that will allow counselors to escape from the camp, or to survive until time runs out on the session, Jason may also be defeated with an "epic win condition" that requires both teamwork and planning, and is difficult to perform.[6] A player may also control Tommy Jarvis, who becomes playable when certain conditions are met.[citation needed]
+
+Kane Hodder, who portrayed Jason in Part VII, Part VIII, Jason Goes to Hell, and Jason X, reprised him via motion capture and coordinated the stunts. Thom Mathews, who portrayed Tommy Jarvis in Part VI, also reprises his role in the series.[citation needed]
+
+Although the game was originally planned to be multiplayer only, a single player mode via an update was announced for a Summer 2017 release, despite the stretch goal for US$1.625 million to unlock it not being reached.[8] The mode will consist of objective-based missions that will allow the player to take control of Jason against offline camp counselor bots. Some of the missions will be adaptations of the films, while others are original scenarios.[9][10]
+
+On October 27, 2017, Gun released a trailer teasing a new game mode called "Paranoia."[11] No release date was given, and it is unknown what this new mode will change, but there has been a lot of discussion amongst the fan community over what it might include.[citation needed]
+
+
 Just testing the git hub and related aspects and the involved ocmmands
 iIntrigued by the player's supernatural talent of clairvoyance, a struggling university department asks them to join their secret research team, making them a front-field operative in paranormal investigations. Using a wide range of ghost-hunting gadgets and abilities they will conduct missions to investigate real haunted sites, collect samples and gather evidence.
 
